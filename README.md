@@ -1,4 +1,12 @@
-### Hi there 👋
+# ✨CKylinMC✨
+
+- 🌱 I'm currently learning JavaEE.
+- 📫 How to reach me: 
+  - Here is my Email: ckylin@ckylin.site
+  - My blog (in Chinese): www.ckylin.site . you can write some comment in [About me page](https://blog.ckylin.site/about-me.md).
+  - Telegram [t.me/ckylinmc](https://t.me/ckylinmc), I'm not checking messages from it often, so it's not recommended.
+
+![My Github Status](https://github-readme-stats.vercel.app/api?username=CKylinMC&show_icons=true&theme=tokyonight)
 
 <!--
 **CKylinMC/CKylinMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
