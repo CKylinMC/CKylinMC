@@ -1,6 +1,6 @@
 # ✨CKylinMC✨
 
-- 🌱 I'm currently learning JavaEE.
+- 🌱 I'm currently learning Typescript.
 - 📫 How to reach me: 
   - Here is my Email: ckylin@ckylin.site
   - My blog (in Chinese): www.ckylin.site . you can write some comment in [About me page](https://blog.ckylin.site/about-me.md).
