@@ -6,7 +6,7 @@
   - My blog (in Chinese): www.ckylin.site . you can write some comment in [About me page](https://blog.ckylin.site/about-me.md).
   - Telegram [t.me/ckylinmc](https://t.me/ckylinmc), I'm not checking messages from it often, so it's not recommended.
 
-![My Github Status](https://github-readme-stats.vercel.app/api?username=CKylinMC&show_icons=true&theme=tokyonight&count_private=true)
+![My Github Status](https://github-readme-stats.vercel.app/api?username=CKylinMC&show_icons=true&theme=dracula&count_private=true&hide_border=true&bg_color=45,44475c,282a36,020202)
 
 <!--
 **CKylinMC/CKylinMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
