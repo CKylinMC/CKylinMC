@@ -8,6 +8,8 @@
 
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=CKylinMC&show_icons=true&theme=dracula&count_private=true&hide_border=true&bg_color=45,44475c,282a36,020202)
 
+
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=CKylinMC&theme=dracula&no-frame=true)
 <!--
 **CKylinMC/CKylinMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
