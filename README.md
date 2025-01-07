@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning Typescript.
 - 📫 How to reach me: 
   - Here is my Email: ckylin@ckylin.site
-  - My blog (in Chinese): www.ckylin.site .
+  - My blog (in Chinese): [ckyl.in](https://ckyl.in?fr=gh) .
   - Telegram [t.me/ckylinmc](https://t.me/ckylinmc), I'm not checking messages from it often, so it's not recommended.
 
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=CKylinMC&show_icons=true&theme=dracula&count_private=true&hide_border=true&bg_color=45,44475c,282a36,020202)
